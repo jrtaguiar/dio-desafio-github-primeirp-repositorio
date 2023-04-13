@@ -1,6 +1,6 @@
-# **Bootcamp DIO - orange Tech + |BackEnd** 
+#  Bootcamp TQI Kotlin - Backend Developer
 
-![](https://hermes.digitalinnovation.one/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png)
+![Bootcamp TQI Kotlin - Backend Developer](https://hermes.dio.me/files/assets/43e7f355-1b28-4272-b80f-3c41be0e17af.png)
 
 ### Material de estudos
 
@@ -9,3 +9,4 @@
 ###### 
 :p
 
+## 
